@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.thelondondolls.com	TRUE	/	FALSE	1999999999	crumb	BcECyfRv5C0aNDMwMDAyMjMwNWQwYzQ4Njk5MzE4YjkxOTMwMDA2
-
